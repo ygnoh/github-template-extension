@@ -1,8 +1,11 @@
-## 제안 사항
-동영상을 업로드 할 수 있게 해주세요
+## 제안 사항(Suggestion)
+<!-- Required -->
 
-## 필요성
-이미지만 업로드하는 기능은 너무 제한적이에요
 
-## 기대 효과
-훨씬 편해질 것 같아요
+## 필요성(Necessity)
+<!-- Required -->
+
+
+## 기대 효과(Expectancy effects)
+<!-- Required -->
+
